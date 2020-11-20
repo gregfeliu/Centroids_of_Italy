@@ -59,7 +59,7 @@ def plot_both_centroids(geometries: gpd.geodataframe.GeoDataFrame,
                        geographic_centroids: gpd.geodataframe.GeoDataFrame,
                        population_weighted_centroids: gpd.geodataframe.GeoDataFrame):
 # -> matplotlib.axes._subplots.AxesSubplot:
-    print("""The green dot(s) represent the weighted mean population centroid 
+    print("""The green dot(s) represent(s) the weighted mean population centroid 
     while the black dots represent the geographic centroid.""")
     ax = geographic_centroids.plot(color='black', figsize=(5,5))
     population_weighted_centroids.plot(figsize=(5,5), ax=ax, color='green')
