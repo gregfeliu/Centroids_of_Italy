@@ -3,7 +3,7 @@
 ## Description
 The goal of this project is to visualize the population of a country using the populations of smaller units. More specifically, **I use cartograms and weighted population mean centroids to understand where people live in** Italy. To shed light on a particular country, **I use Italian provinces (equivalent to U.S. counties)** for my examples. By using this data, one can better understand where the population centers of Italy are and how they compare to the geographic centers of a given geographic unit. For example, we see in the image below that Apulia has the largest difference between the weighted mean population centroid and the geographic centroid of any region. 
 
-PIC OF REGION CENTROIDS 
+![Graphic showing the centroids of each region](./images/region_centroids.png)
 
 ## Data
 The data that makes up this project is divided into population/density data and geographic data. The former comes from a [wikipedia table about Italian provinces](https://en.wikipedia.org/wiki/Provinces_of_Italy#List). The latter comes from a [database maintained by NYU](https://geo.nyu.edu/catalog/stanford-mn871sp9778). I corrected slight inconsistencies with the data and then merged the data sources. 
