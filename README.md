@@ -14,7 +14,7 @@ For both visualization methods, I aggregated the data (106 units) into increasin
 
 In each case, some units are shown to be much smaller than others. The regions, for example, show a huge disparity in size: Aosta Valley is 80 times smaller than Lombardia! 
 
-PIC OF CARTOGRAM of region sizes
+![Graphic showing the cartogram of the regions](./images/region_cartogram.png)
 
 # Findings
 Both visualizations shed light on the differences in population for each unit. I will list some of the notable findings for each level of grouping here:
@@ -25,10 +25,7 @@ Both visualizations shed light on the differences in population for each unit. I
 
 - **Region**
     - We can see that Sicily, Lombardy, Lazio, Venice, and Campania are the largest regions, while many others pale in comparison. The largest region, Lombardy, is 80 times larger than the smallest region, Aosta Valley! 
-    - Most provinces are evenly distributed in terms of population: Apulia had the largest distance between its geographic centroid and weighted mean population centroid and it is not very noticably different (see first image). 
-
-![Graphic showing the cartogram of the regions](./images/region_cartogram.png)
-
+    - Most provinces are evenly distributed in terms of population: Apulia had the largest distance between its geographic centroid and weighted mean population centroid and it is not very noticably different (see image in "Process" section). 
 - **Macroregion**
     - The Macroregion visualizations primarily show that:
         1. Most of the macroregions are roughly similar in terms of population
