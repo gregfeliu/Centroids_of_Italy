@@ -21,13 +21,13 @@ Both visualizations shed light on the differences in population for each unit. I
 - **Province**
     - Lazio is clearly the largest region while there are many provinces that are so small as to seem non-existant. Further, clear clusters emerge, especially across the north of the country, roughly from Venice to Turin
 
-![Graphic showing the cartogram of the provinces](province_cartogram_and_choropleth.png)
+![Graphic showing the cartogram of the provinces](./images/province_cartogram_and_choropleth.png)
 
 - **Region**
     - We can see that Sicily, Lombardy, Lazio, Venice, and Campania are the largest regions, while many others pale in comparison. The largest region, Lombardy, is 80 times larger than the smallest region, Aosta Valley! 
     - Most provinces are evenly distributed in terms of population: Apulia had the largest distance between its geographic centroid and weighted mean population centroid and it is not very noticably different (see first image). 
 
-![Graphic showing the cartogram of the regions](region_cartogram.png)
+![Graphic showing the cartogram of the regions](./images/region_cartogram.png)
 
 - **Macroregion**
     - The Macroregion visualizations primarily show that:
@@ -35,17 +35,17 @@ Both visualizations shed light on the differences in population for each unit. I
         2. The Insular region is a huge outlier in terms of population (much smaller), and 
         3. Sicily is much more populated than Sardinia
 
-![Graphic showing the centroids of the macroregions](macroregion_centroids.png)
+![Graphic showing the centroids of the macroregions](./images/macroregion_centroids.png)
 
 - **Cultural Region**
     - The cultural region visualizations show that the North is the most populated of the three. Additionally, we see that Central Italy is much smaller than Southern and Northern Italy. In all cases the geographic centroid and population centroid are quite close together. 
 
-![Graphic showing the centroids of the cultural regions](cultural_region_centroids.png)
+![Graphic showing the centroids of the cultural regions](./images/cultural_region_centroids.png)
 
 - **All of Italy**
     - Somewhat surprisingly, we see that the geographic centroid is nearly identical to the weighted mean population centroid. This shows that neither edge of Italy is heavily skewed in terms of population, despite what the cultural region section might lead one to believe.
 
-![Graphic showing the centroids of Italy](italy_centroids.png)
+![Graphic showing the centroids of Italy](./images/italy_centroids.png)
 
 ## Technologies used
 - Jupyter Notebook
