@@ -34,7 +34,7 @@ Both visualizations shed light on the differences in population for each unit. I
 - **Cultural Region**
     - The cultural region visualizations show that the North is the most populated of the three. Additionally, we see that Central Italy is much smaller than Southern and Northern Italy. In all cases the geographic centroid and population centroid are quite close together. 
 - **All of Italy**
-    - Somewhat surprisingly, we see that the geographic centroid is nearly identical to the weighted mean population centroid. This shows that neither edge of Italy is heavily skewed in terms of population, despite what the cultural region section might lead one to believe.
+    - Somewhat surprisingly, we see that the geographic centroid is nearly identical to the weighted mean population centroid. This shows that neither edge of Italy is heavily skewed in terms of population, despite what the cultural region section might lead one to believe. 
 
 ## Technologies used
 - Jupyter Notebook
