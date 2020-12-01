@@ -1,7 +1,7 @@
 # Population Visualizations Using Python
 
 ## Description
-The goal of this project is to visualize the population of a country using the populations of smaller units. More specifically, **I use cartograms and weighted population mean centroids to understand where people live in** Italy. To shed light on a particular country, **I use Italian provinces (equivalent to U.S. counties)** for my examples. By using this data, one can better understand where the population centers of Italy are and how they compare to the geographic centers of a given geographic unit. For example, we see in the image below that Apulia has the largest difference between the weighted mean population centroid and the geographic centroid of any region. 
+The goal of this project is to visualize the population of a country using the populations of smaller regional units. More specifically, **I use cartograms and weighted population mean centroids to understand where people live in Italy**. To shed light on a particular country, **I use Italian provinces** (equivalent to U.S. counties) for my examples. By using this data, one can better understand where the population centers of Italy are and how they compare to the geographic centers of a given geographic unit. For example, we see in the image below that Apulia has the largest difference between the weighted mean population centroid and the geographic centroid of any region. 
 
 ![Graphic showing the centroids of each region](./images/region_centroids.png)
 
