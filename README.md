@@ -28,7 +28,7 @@ Both visualizations shed light on the differences in population for each unit. I
     
 ![Cartogram of Regions](./images/region_cartogram.png)
     
-    - Most provinces are evenly distributed in terms of population: Apulia had the largest distance between its geographic centroid and weighted mean population centroid and it is not very noticably different (see image in "Process" section). 
+   - Most provinces are evenly distributed in terms of population: Apulia had the largest distance between its geographic centroid and weighted mean population centroid and it is not very noticably different (see image in "Process" section). 
 - **Macroregion**
     - The Macroregion visualizations primarily show that:
         1. Most of the macroregions are roughly similar in terms of population
