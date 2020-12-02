@@ -6,7 +6,7 @@ The goal of this project is to visualize the population of a country using the p
 ![Graphic showing the centroids of each region](./images/region_centroids.png)
 
 ## Data
-The data that makes up this project is divided into population/density data and geographic data. The former comes from a [wikipedia table about Italian provinces](https://en.wikipedia.org/wiki/Provinces_of_Italy#List). The latter comes from a [database maintained by NYU](https://geo.nyu.edu/catalog/stanford-mn871sp9778). I corrected slight inconsistencies with the data and then merged the data sources. 
+The data for this project comes in two parts: one for the population/density data and another for the geographic data. The former comes from a [wikipedia table about Italian provinces](https://en.wikipedia.org/wiki/Provinces_of_Italy#List). The latter comes from a [database maintained by NYU](https://geo.nyu.edu/catalog/stanford-mn871sp9778). I corrected slight inconsistencies with the data and then merged the data sources. 
 
 ## Process
 For both visualization methods, I aggregated the data (106 units) into increasingly larger units: Regions (20), state statistical region2 (5), cultural regions (3), and one for the whole country. The two methods are split into separate notebooks, but follow the same structure.
